@@ -3,7 +3,10 @@
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
         <LangVersion>default</LangVersion>
-        <RootNamespace>Akunich.Abstractions.Domain</RootNamespace>
+        <RootNamespace>Akunich.Domain.Abstractions</RootNamespace>
+        <AssemblyName>Akunich.Domain.Abstractions</AssemblyName>
+        <PackageId>Akunich.Domain.Abstractions</PackageId>
+        <Authors>Artem Kunich</Authors>
     </PropertyGroup>
 
 </Project>
