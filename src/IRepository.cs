@@ -4,7 +4,7 @@ using System.Linq.Expressions;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Akunich.Abstractions.Domain;
+namespace Akunich.Domain.Abstractions;
 
 public interface IRepository<TAggregateRoot, in TKey>
 {

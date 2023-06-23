@@ -1,4 +1,4 @@
-namespace Akunich.Abstractions.Domain;
+namespace Akunich.Domain.Abstractions;
 
 public interface IDomainEvent
 {
