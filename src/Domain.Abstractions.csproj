@@ -7,6 +7,7 @@
         <AssemblyName>Akunich.Domain.Abstractions</AssemblyName>
         <PackageId>Akunich.Domain.Abstractions</PackageId>
         <Authors>Artem Kunich</Authors>
+        <Version>1.0.1</Version>
     </PropertyGroup>
 
 </Project>
